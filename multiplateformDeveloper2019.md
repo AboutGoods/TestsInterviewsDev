@@ -25,6 +25,7 @@ In this test you will use the following API as back-end for getting resources
 ### Files expected
 - Source code hosted on a public versionning hub (Github, Gitlab, etc.)
 - A Readme in Markdown format that explain how to launch your project and what were the difficulties you faced during the development
+- A markdown explaning which design patterns you used, which framework and libraries you used and **why**. 
 
 ## 🌟 Help
 - You are free to choose the technology you want in this list : 
