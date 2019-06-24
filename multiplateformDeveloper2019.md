@@ -15,24 +15,26 @@ We specially need to :
 - We want a favorite system to save our favorite `resident` and `location` with a way to filter them by their type.
 
 ## Resources 
-In this test you will use the following API 
-- http://rickandmortyapi.com
+In this test you will use the following API as back-end for getting resources
 
-## Details
-- You are free to chose the technology you want in this list : 
-  - Mobile native application (Android or iOS)
-  - Web application (using a front web framework like VueJS, React or others)
-- If you chose we application we expect you to store favorites and new data into a **dedicated back-end** (PHP Back end, NodeJS, Go, etc.) with a DBMS (Any kind, NoSQL, SQL, Graph, etc.)
-- If you chose mobile native application we expect you to use the **dedicated database management** system included with the SDK of the OS.
-- This exercise is rather simple, so we expect you to follow the **best practices** in the language / framework you chose.
-- A nice and responsive UI is a big + for us
-- You are free to **implement more from the API**
+### [http://rickandmortyapi.com](http://rickandmortyapi.com)
 
-## Results expectation
+## Result expected
 - A fully working front application 
+
 ### Files expected
 - Source code hosted on a public versionning hub (Github, Gitlab, etc.)
 - A Readme in Markdown format that explain how to launch your project and what were the difficulties you faced during the development
+
+## 🌟 Help
+- You are free to choose the technology you want in this list : 
+  - Mobile application (Android or iOS, you can use Hybrid system as long as it's not Xamarin)
+  - Web application (using a front web framework like VueJS, React or others)
+- If you opt for web application we expect you to store favorites and new data into a **dedicated back-end** (PHP Back end, NodeJS, Go, etc.) with a DBMS (Any kind, NoSQL, SQL, Graph, etc.)
+- If you prefer to do a mobile native application we expect you to use the **dedicated database management** system included with the SDK of the OS.
+- This exercise is rather simple, so we expect you to follow the **best practices** in the language / framework you choose.
+- A nice and responsive UI is a big + for us
+- You are free to **implement more from the API**
 
 ## Final touch
 Document yourself long before coding and try to do what you can. If you can't predict but you have something that should work, send us your code with explanations anyway.
