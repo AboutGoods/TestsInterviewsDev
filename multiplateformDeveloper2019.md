@@ -30,7 +30,7 @@ In this test you will use the following API as back-end for getting resources
 - You are free to choose the technology you want in this list : 
   - Mobile application (Android or iOS, you can use Hybrid system as long as it's not Xamarin)
   - Web application (using a front web framework like VueJS, React or others)
-- If you opt for web application we expect you to store favorites and new data into a **dedicated back-end** (PHP Back end, NodeJS, Go, etc.) with a DBMS (Any kind, NoSQL, SQL, Graph, etc.)
+- If you opt for web application we expect you to store favorites and new data into a **dedicated back-end** (PHP Back end, NodeJS, Go, Kotlin etc. excluding .NET technologies) with a DBMS (Any kind, NoSQL, SQL, Graph, etc.)
 - If you prefer to do a mobile native application we expect you to use the **dedicated database management** system included with the SDK of the OS.
 - This exercise is rather simple, so we expect you to follow the **best practices** in the language / framework you choose.
 - A nice and responsive UI is a big + for us
