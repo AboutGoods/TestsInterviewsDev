@@ -5,9 +5,8 @@
 - 2 Weeks *max* since you receive the mail (you can send your work  before)
 
 ## 📌 The needs - Company phone repository
-:::warning
-This is a fictional test to measure your skills. 😉
-:::
+
+> This is a fictional test to measure your skills. 😉
 
 In order to improve the company's information system you must create a company repository (a phone book).
 
@@ -46,6 +45,5 @@ You should read this resources first :
 - [Singleton pattern](https://www.geeksforgeeks.org/singleton-design-pattern/)
 - [Objects class in Kotlin](https://www.baeldung.com/kotlin-objects)
 
-:::success
-☝️ It's an easy exercise to do **IF YOU READ CAREFULLY** all the documentations we provided here
-:::
+
+> ☝️ It's an easy exercise to do **IF YOU READ CAREFULLY** all the documentations we provided here
