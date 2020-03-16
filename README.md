@@ -5,3 +5,4 @@ This repository is used as support to contain guidelines and exercises for peopl
 Here is the list of currents interviews tests available : 
 - [Multiplateform Developer 2019](https://aboutgoods.github.io/TestsInterviewsDev/multiplateformDeveloper2019)
 - [Data Engineer 2019](https://aboutgoods.github.io/TestsInterviewsDev/testDataEngineer2019)
+- [Web Developer Test 2020](https://aboutgoods.github.io/TestsInterviewsDev/WebDeveloperInterviewTest.html)
